@@ -18,8 +18,9 @@ Selecciona el botón verde "Use this template".
 ## 2. Configurar el nuevo repositorio
 
 Te mostrará una ventana donde:
-**Repository name:** será el nuevo nombre de tu repositorio. Ojo: No será el mismo nombre de tu CCGEN pero puedes usarlo.
-**Include all branches:** garantiza que si en el futuro agrego cosas nuevas, podrás acceder a ellas. Debes marcar la casilla.
+  - **Repository name:** será el nuevo nombre de tu repositorio. Ojo: No será el mismo nombre de tu CCGEN pero puedes usarlo.
+  - **Include all branches:** garantiza que si en el futuro agrego cosas nuevas, podrás acceder a ellas. Debes marcar la casilla.
+
 Luego, debes darle ***"Create repository from template".***
 
 ![2](https://i.imgur.com/lPg9s7t.png)
