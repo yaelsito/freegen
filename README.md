@@ -12,6 +12,7 @@ Con FreeGen podrás tener tu propio generador de tarjetas personalizado y online
 ## 1. Usar la plantilla
 
 Selecciona el botón verde "Use this template".
+
 ![1](https://i.imgur.com/jVcr02U.png)
 
 ## 2. Configurar el nuevo repositorio
@@ -20,15 +21,18 @@ Te mostrará una ventana donde:
 **Repository name:** será el nuevo nombre de tu repositorio. Ojo: No será el mismo nombre de tu CCGEN pero puedes usarlo.
 **Include all branches:** garantiza que si en el futuro agrego cosas nuevas, podrás acceder a ellas. Debes marcar la casilla.
 Luego, debes darle ***"Create repository from template".***
+
 ![2](https://i.imgur.com/lPg9s7t.png)
 
 # 3. Personalización
 
 Ahora verás una pantalla con todos los nuevos archivos del generador, entre ellos: `index.html`
 Toca **index.html** y espera que cargue.
+
 ![3](https://i.imgur.com/oFchMk2.png)
 
 Una vez haya cargado, toca el icono del Lapiz para editar el archivo:
+
 ![4](https://i.imgur.com/8CSRp5m.png)
 
 ## MODIFICAR INDEX.HTML
@@ -52,6 +56,7 @@ Recuerda solo editar las cosas que estén dentro del **cuadro rojo y solo como s
 ## ACTUALIZAR INDEX.HTML
 
 Ya que hayas terminado de editar a tu gusto, ve hasta abajo de la página y dale al botón verde que dice **"Commit changes"**
+
 ![6](https://i.imgur.com/kbqCKyi.png)
 
 > **Nota:** No debes **modificar** ninguna otra cosa, porque puedes dejar inservible tu generador y deberás repetir el proceso.
@@ -59,6 +64,7 @@ Ya que hayas terminado de editar a tu gusto, ve hasta abajo de la página y dale
 # PONER ONLINE TU CCGEN
 
 Ya casi hemos terminado, ahora toca poner online tu nuevo CCGEN.  Para eso debes ir a "Settings" en la parte superior.
+
 ![7](https://i.imgur.com/ZDoyPyc.png)
 
 Ahora dirigete a "Pages" y aquí debes configurar lo siguiente:
@@ -71,6 +77,7 @@ Ahora dirigete a "Pages" y aquí debes configurar lo siguiente:
 
 **Ahora debes darle "SAVE" y esperar.**
 Adjunto imagen de cómo debe quedar:
+
 ![8](https://i.imgur.com/FYl0HWX.png)
 
 ## OBTENER LA URL DE TU CCGEN
@@ -84,6 +91,7 @@ Si ya hiciste lo anterior, ahora refresca la página y verás lo siguiente:
 
 # RESULTADO FINAL
 Si has hecho bien todos los pasos, verás este bonito CCGEN personalizado con todos tus datos!
+
 ![FINAL](https://i.imgur.com/Cyk9TCf.png)
 
 # Preguntas Frecuentes:
@@ -123,7 +131,8 @@ yaeldev@tutanota.com
 **De nuevo gracias y espero valoren el esfuerzo y tiempo que me tomó hacer todo esto para ustedes** 💕
 
 Mis otras redes:
-**[Telegram](https://t.me/steryoff)**
-[**Instagram**](https://instagram.com/yaelmassieuwu)
-[**Github**](https://github.com/bystrokr)
-[**Twitter**](https://twitter.com/yaelmassieuwu)
+
+ - **[Telegram](https://t.me/steryoff)**
+ - [**Instagram**](https://instagram.com/yaelmassieuwu)
+  - [**Github**](https://github.com/bystrokr)
+  - [**Twitter**](https://twitter.com/yaelmassieuwu)
